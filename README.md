@@ -71,4 +71,4 @@ This project is an e-commerce web application developed with vanilla JavaScript 
 * **Responsive Design:** Fully responsive layout designed using CSS Grid and Flexbox structures, optimized for desktop, tablet, and mobile interfaces.
 * **Loading States:** Implemented professional loading spinners and error handling messages for network interactions.
 
-### Note: This project connects to supersimplebackend.dev for backend data simulation.
+#### Note: This project connects to supersimplebackend.dev for backend data simulation.
