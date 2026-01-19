@@ -58,3 +58,4 @@ This project is an e-commerce web application developed with vanilla JavaScript 
 
 ## Technical Implementation
 * **Architectural Design:** Refactored the codebase from procedural JavaScript to Object-Oriented Programming (OOP), utilizing classes for Product, Cart, and Order management to enhance scalability.
+* MVC Pattern: Implemented a robust Model-View-Controller pattern. The data (Model) is strictly separated from the HTML generation (View), with controller scripts managing the flow of data.
