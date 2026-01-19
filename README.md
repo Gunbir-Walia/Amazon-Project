@@ -54,3 +54,7 @@ This project is an e-commerce web application developed with vanilla JavaScript 
 ├── orders.html
 ├── tracking.html
 └── README.md
+```
+
+## Technical Implementation
+* **Architectural Design:** Refactored the codebase from procedural JavaScript to Object-Oriented Programming (OOP), utilizing classes for Product, Cart, and Order management to enhance scalability.
