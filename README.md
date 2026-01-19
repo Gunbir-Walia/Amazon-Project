@@ -1,4 +1,4 @@
-# Amazon Clone Project
+# Amazon Project
 This project is an e-commerce web application developed with vanilla JavaScript and designed to simulate the core features of a major retail platform. It transitions from procedural programming to a modular Object-Oriented (OOP) architecture, utilizing the MVC (Model-View-Controller) pattern to separate business logic from the user interface.
 
 ## Structure of Repository
