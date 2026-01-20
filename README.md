@@ -15,7 +15,7 @@ This project is an e-commerce web application developed with vanilla JavaScript 
 ├── images
 │   ├── icons
 │   ├── products
-│   ├── ratings
+│   └── ratings
 ├── scripts
 │   ├── checkout
 │   │   ├── checkoutHeader.js
