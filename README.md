@@ -72,13 +72,10 @@ This project is an e-commerce web application developed with vanilla JavaScript 
 * **Loading States:** Implemented professional loading spinners and error handling messages for network interactions.
 
 <br>
-<br>
 <img width="1919" height="868" alt="Screenshot 2026-01-21 181506" src="https://github.com/user-attachments/assets/8fd967ff-1daa-454e-9f1e-8562616df5f4" />
 <br>
 <br>
-<br>
 <img width="1919" height="869" alt="Screenshot 2026-01-21 181358" src="https://github.com/user-attachments/assets/e8b063b3-d08b-43bb-ba2a-cb7ea19f1b6d" />
-<br>
 <br>
 <br>
 <img width="1919" height="867" alt="Screenshot 2026-01-21 181550" src="https://github.com/user-attachments/assets/2bd3570e-9564-4468-ad4e-f77caaa2ca60" />
